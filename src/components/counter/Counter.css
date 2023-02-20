@@ -1,0 +1,25 @@
+.counterButton {
+  font-size: 16px;
+  background-color: antiquewhite;
+  width: 100px;
+  margin: 10px;
+  color: black;
+  font-weight: bolder;
+  border-width: 3px;
+  padding: 10px;
+}
+
+.value {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.window {
+  vertical-align: middle;
+  height: 400px;
+  width: 400px;
+  background-color: wheat;
+  border: 5px solid;
+  margin: auto; /*  For centering div*/
+  text-align: center;
+}
